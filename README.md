@@ -1,4 +1,4 @@
-# RGB LED Remote control
+# RGB LED Remote control pro
  
 ###### An app built in Flutter which can control RGB LED Strip lights & Bulbs [Device must have IR Sensor]
 ###### This app supports Sylvania RGB remote and IRC240S RGB remote (24Keys)
