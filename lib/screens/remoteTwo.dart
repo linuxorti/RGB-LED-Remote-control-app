@@ -81,6 +81,14 @@ class RemoteTwo extends StatelessWidget {
                       RemoteButton("remoteTwo", 11),
                     ],
                   ),
+                 Row(
+  children: <Widget>[
+    RemoteButton("remoteTwo", 24), // Новая кнопка 1
+    RemoteButton("remoteTwo", 25), // Новая кнопка 2
+    RemoteButton("remoteTwo", 26), // Новая кнопка 3
+    RemoteButton("remoteTwo", 27), // Новая кнопка 4
+  ],
+),
                 ],
               ),
             ),
